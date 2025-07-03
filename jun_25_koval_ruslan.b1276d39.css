@@ -91,8 +91,8 @@
   transform: scale(1.2);
 }
 
-.extra:hover {
+.person:hover .extra {
   color: #000;
-  display: contents;
+  display: block;
 }
 /*# sourceMappingURL=jun_25_koval_ruslan.b1276d39.css.map */
